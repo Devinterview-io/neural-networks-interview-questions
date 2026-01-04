@@ -1,4 +1,4 @@
-# 95 Common Neural Networks Interview Questions in 2025
+# 95 Common Neural Networks Interview Questions in 2026
 
 <div>
 <p align="center">
